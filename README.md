@@ -1,6 +1,6 @@
 <h1 align="center">Aplicação de teste de unidade de uma calculadora de IMC</h1>
 
-<p align="center">Project made using #C by <b>Sheyenne de Morais Carvalho</b>
+<p align="center">Project made using C# by <b>Sheyenne de Morais Carvalho</b>
 
 <h3>Características</h3>
 <ul>
@@ -16,7 +16,7 @@
 
 <h3>Tecnologias Aplicadas</h3>
 <ul>
-  <li>JavaScript</li>
+  <li>C#</li>
 </ul>
 
 <h3>Planejamento do Projeto</h3>
@@ -30,4 +30,8 @@
 <ul>
   <li>VS Code</li>
   <li>Node.js</li>
+  <li>.NET</li>
+  <li>Selenium</li>
+  <li>XUnit</li>
+  <li>MSTest</li>
 </ul>
