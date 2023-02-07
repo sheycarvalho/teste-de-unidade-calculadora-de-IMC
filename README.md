@@ -22,7 +22,7 @@
 <h3>Planejamento do Projeto</h3>
 <ul>
   <li>Execução de teste automático de unidade</li>
-  <li>Testar o sistema, aplicando correções de acordo com os resultados obtidos/li>
+  <li>Testar o sistema, aplicando correções de acordo com os resultados obtidos</li>
   <li>Calculadora de IMC, que produz cálculo e sua classificação</li>
 </ul>
 
