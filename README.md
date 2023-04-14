@@ -1,32 +1,33 @@
-<h1 align="center">Aplicação de teste de unidade de uma calculadora de IMC</h1>
+<h1 align="center">Unit test application of a IMC calculator</h1>
 
 <p align="center">Project made using C# by <b>Sheyenne de Morais Carvalho</b>
 
-<h3>Características</h3>
+<h3>Features</h3>
 <ul>
-  <li>Estrutura</li>
-  <li>Instalção</li>
-  <li>Configuração</li>
-  <li>Ferramentas</li>
-  <li>Documentação</li>
+  <li>Structure</li>
+  <li>Installation</li>
+  <li>Configuration</li>
+  <li>Tools</li>
+  <li>Documentation</li>
   <li>Review</li>
-  <li>Passeio</li>
-  <li>Inspeção</li>
+  <li>Tour</li>
+  <li>Inspection</li>
 </ul>
 
-<h3>Tecnologias Aplicadas</h3>
+<h3>Applied Technologies</h3>
 <ul>
   <li>C#</li>
 </ul>
 
-<h3>Planejamento do Projeto</h3>
+<h3>Project Planning</h3>
 <ul>
-  <li>Execução de teste automático de unidade</li>
-  <li>Testar o sistema, aplicando correções de acordo com os resultados obtidos</li>
-  <li>Calculadora de IMC, que produz cálculo e sua classificação</li>
+  <li>Running an automatic unit test</li>
+  <li>Testing the system, applying corrections according to the results obtained</li>
+  <li>IMC Calculator, which produces calculation and its classification</li>
 </ul>
 
-<h3>Requerimentos de instalação</h3>
+<h3>Installation requirements
+</h3>
 <ul>
   <li>VS Code</li>
   <li>Node.js</li>
