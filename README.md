@@ -1,4 +1,4 @@
-<h1 align="center">Unit test application of a IMC calculator</h1>
+<h1 align="center">Unit test application of an IMC calculator</h1>
 
 <p align="center">Project made using C# by <b>Sheyenne de Morais Carvalho</b>
 
